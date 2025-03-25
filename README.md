@@ -3,13 +3,13 @@
 
 ---
 
-🌱 I am a Student at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)             
+🌱 I am a master at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)             
 🤔 Focus on Robot and Deep Learning. Still exploring...    
-😄 Like robots and programming  
+😄 Like drone and programming  
 ✨ I’m currently learning everything 
 
-**:) Hope do real, not just paper!**
-**Looking forward to communicating with everyone!**          
+**:) Hope do real, not just paper!**                                                                                                                                                                                 
+**:) Looking forward to communicating with everyone!**          
 (My WeChat: zylyehuo, My Email: zyl_0606@163.com)
 
 **My subject:**      
