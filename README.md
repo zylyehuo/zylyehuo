@@ -30,9 +30,9 @@
 </details>
 
 **Video:**
-The demo of the above works can be found on my [Bilibili Account (zylyehuo)](https://space.bilibili.com/382153587?spm_id_from=333.999.0.0).
+[Bilibili Account (zylyehuo)](https://space.bilibili.com/382153587?spm_id_from=333.999.0.0).
 
-**Tip:** ~
+**Tip:** Always keep a beginner's mind, don't forget the beginner's mind.
 <!--
 **zylyehuo/zylyehuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
