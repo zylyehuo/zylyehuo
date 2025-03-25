@@ -13,7 +13,8 @@
 **My subject:**      
 
 <details>
-  <summary><strong>Representative works:</strong></summary>       
+  <summary><strong>Representative works:</strong></summary>
+
 1. [[Paper]()] [[Code]()]
 </details>
 
