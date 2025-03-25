@@ -23,7 +23,10 @@
 <details>
   <summary><strong>Other works:</strong></summary>          
 
-1. [[Paper]()] [[Code]()]
+1. Zhuo Wang, Weichu Li, Jiacheng Zhang, **Yiliang Zhou**, Shisong Chen, Yuwei Dai, Jiale Song, Yeming Cheng, Xiaoting Du, A mixed reality-based aircraft cable harness installation assistance system with fully occluded gesture recognition [J]. Robotics and Computer-Integrated Manufacturing, 2025. [[Paper]()]
+2. Zhuo Wang, **Yiliang Zhou**, Fei Xiong, Jun Xiao, Rong Lu, Feilong Han, "Visual Encoding Method for MR Interface Operation Process Prompts Supporting Blind Area Assembly," 2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT), 2024. [[Paper]()]
+3. Zhuo Wang, Xiangyu Zhang, Liang Li, **Yiliang Zhou**, Zexin Lu, Yuwei Dai, Chaoqian Liu, Zekun Su, Xiaoliang Bai, Mark Billinghurst, Evaluating visual encoding quality of a mixed reality user interface for human–machine co-assembly in complex operational terrain [J]. Advanced Engineering Informatics, 2023. [[Paper]()]
+4. [[Paper]()] [[Code]()]
 </details>
 
 **Video:**
