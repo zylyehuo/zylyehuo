@@ -12,13 +12,14 @@
 **:) Looking forward to communicating with everyone!**          
 (My WeChat: zylyehuo, My Email: zyl_0606@163.com)
 
-**My subject:**      
+**My subject:** 
+<!--
 xxx: **x** (x), **x** (xx) and **x** (xxx)   
+-->
 
 <details>
   <summary><strong>Representative works:</strong></summary>
 
-1. [[Paper]()] [[Code]()]
 </details>
 
 <details>
@@ -31,22 +32,26 @@ xxx: **x** (x), **x** (xx) and **x** (xxx)
 </details>
 
 <details>
-  <summary><strong>Patents:</strong></summary>
+  <summary><strong>Representative patents:</strong></summary>
 
 1. **周屹梁**，王卓. 机械零件入库及零件多客户端同步管理系统. 登记号: 2024SR0073480.计算机软件著作权. 授权年份 2024.
 2. **周屹梁**，王卓，李孝茹，宋佳乐，成烨铭，侯佳妮. 基于液位信息采集及强化学习技术的人体平衡位姿矫正训练装置. 专利号：ZL 2023 2 3126783.1. 实用新型专利. 授权年份 2024.
 3. **周屹梁**，王卓，李孝茹，宋佳乐，成烨铭，侯佳妮. 基于液位信息采集及强化学习技术的人体平衡位姿矫正训练装置. 专利号：202311547162.2. 发明专利. 进入实质审查阶段 2023年.
 </details>
 
+<details>
+  <summary><strong>Other patents:</strong></summary>
+
+</details>
+
 **Video:**
 [Bilibili Account (zylyehuo)](https://space.bilibili.com/382153587?spm_id_from=333.999.0.0).
 
 **Tip:** Always keep a beginner's mind, don't forget the beginner's mind.
+
 <!--
 **zylyehuo/zylyehuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
