@@ -11,7 +11,7 @@
 
 **:) Hoping to do some meaningful research!**                                                                                                                                                                        
 **:) Looking forward to communicating with everyone!**          
-(My WeChat: zylyehuo, My Email: zyl_0606@163.com)
+(My WeChat: zylyehuo, My Email: zyl_0606@163.com, My rednote: 42891122102)
 
 <!--
 **My subject:** 
