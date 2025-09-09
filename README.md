@@ -47,6 +47,13 @@ xxx: **x** (x), **x** (xx) and **x** (xxx)
 
 </details>
 
+<details>
+  <summary><strong>Graduation Projects:</strong></summary>
+
+Undergraduate: **周屹梁**，指导教师 王卓. 基于混合现实的紧固件视觉定位与注册追踪技术研究. 上海理工大学. 完成年份 2025年. [[Video](https://www.bilibili.com/video/BV1mYoxYvEzm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4acdb875c05ce9dccfce3cd6cfaac651)]
+</details>
+
+ 
 **Video:**
 [Bilibili Account (zylyehuo)](https://space.bilibili.com/382153587?spm_id_from=333.999.0.0).
 
