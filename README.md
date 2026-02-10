@@ -20,12 +20,12 @@ xxx: **x** (x), **x** (xx) and **x** (xxx)
 -->
 
 <details>
-  <summary><strong>Representative works:</strong></summary>
+  <summary><strong>Representative papers:</strong></summary>
 
 </details>
 
 <details>
-  <summary><strong>Other works:</strong></summary>          
+  <summary><strong>Other papers:</strong></summary>          
 
 1. Zhuo Wang, Weichu Li, Jiacheng Zhang, **Yiliang Zhou**, Shisong Chen, Yuwei Dai, Jiale Song, Yeming Cheng, Xiaoting Du, A mixed reality-based aircraft cable harness installation assistance system with fully occluded gesture recognition [J]. Robotics and Computer-Integrated Manufacturing, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0736584524002175)]
 2. Zhuo Wang, **Yiliang Zhou**, Fei Xiong, Jun Xiao, Rong Lu, Feilong Han, "Visual Encoding Method for MR Interface Operation Process Prompts Supporting Blind Area Assembly," 2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT), 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10546058/)]
