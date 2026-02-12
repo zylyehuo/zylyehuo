@@ -1,5 +1,5 @@
 ### Hi 👋 I am Yiliang Zhou
-<img align="right" width="200" src="http://faculty.neu.edu.cn/_resources/group1/M00/00/39/0h7IhGjV8NaAaE1iAAHMPjhJMaU511.jpg" />
+<img align="right" width="175" src="http://faculty.neu.edu.cn/_resources/group1/M00/00/39/0h7IhGjV8NaAaE1iAAHMPjhJMaU511.jpg" />
 
 （USST → NEU-REAL）
 <!--
