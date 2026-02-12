@@ -8,8 +8,8 @@
 ---
 
 🌱 I am a master at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)             
-🤔 Focus on Robotics and Machine Learning. Still exploring...    
-😄 Like drone and programming  
+🤔 Focus on Robotics and Navigation. Still exploring...    
+😄 Like programming and bodybuilding  
 ✨ I’m currently learning everything... 
 
 **:) Hoping to do some meaningful research!**                                                                                                                                                                        
