@@ -3,7 +3,7 @@
 <!--
  <img align="right" src="https://github-readme-stats.vercel.app/api username=YiliangZhou&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 -->
-<img align="right" width="200" src="http://faculty.neu.edu.cn/_resources/group1/M00/00/39/0h7IhGjV8NaAaE1iAAHMPjhJMaU511.jpg" />
+<img align="right" width="150" src="http://faculty.neu.edu.cn/_resources/group1/M00/00/39/0h7IhGjV8NaAaE1iAAHMPjhJMaU511.jpg" />
 ---
 
 🌱 I am a master at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)             
