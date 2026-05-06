@@ -16,6 +16,10 @@
 **:) Looking forward to communicating with everyone!**          
 (My WeChat: zylyehuo, My Email: zyl_0606@163.com, My rednote: 42891122102)
 
+**My subject:**
+Online / Classical Navigation Methods: **path search**, **path optimization**, **path tracking**, etc.
+Teach-and-Repeat Navigation: **vision-based teach-and-repeat** (VTR), **multi-sensor fusion teach-and-repeat** (LIV-TR), etc.
+Learning-based Navigation Methods: **vision-language navigation** (VLN), **world models**, etc.
 <!--
 **My subject:** 
 xxx: **x** (x), **x** (xx) and **x** (xxx)   
@@ -29,9 +33,9 @@ xxx: **x** (x), **x** (xx) and **x** (xxx)
 <details>
   <summary><strong>Other papers:</strong></summary>          
 
-1. Zhuo Wang, Weichu Li, Jiacheng Zhang, **Yiliang Zhou**, Shisong Chen, Yuwei Dai, Jiale Song, Yeming Cheng, Xiaoting Du, A mixed reality-based aircraft cable harness installation assistance system with fully occluded gesture recognition [J]. Robotics and Computer-Integrated Manufacturing, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0736584524002175)]
-2. Zhuo Wang, **Yiliang Zhou**, Fei Xiong, Jun Xiao, Rong Lu, Feilong Han, "Visual Encoding Method for MR Interface Operation Process Prompts Supporting Blind Area Assembly," 2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT), 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10546058/)]
-3. Zhuo Wang, Xiangyu Zhang, Liang Li, **Yiliang Zhou**, Zexin Lu, Yuwei Dai, Chaoqian Liu, Zekun Su, Xiaoliang Bai, Mark Billinghurst, Evaluating visual encoding quality of a mixed reality user interface for human–machine co-assembly in complex operational terrain [J]. Advanced Engineering Informatics, 2023. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034623002999)]
+1. Zhuo Wang*, Weichu Li, Jiacheng Zhang, **Yiliang Zhou**, Shisong Chen, Yuwei Dai, Jiale Song, Yeming Cheng, Xiaoting Du, A mixed reality-based aircraft cable harness installation assistance system with fully occluded gesture recognition [J]. Robotics and Computer-Integrated Manufacturing (RCIM), 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0736584524002175)]
+2. Zhuo Wang*, **Yiliang Zhou**, Fei Xiong, Jun Xiao, Rong Lu, Feilong Han, "Visual Encoding Method for MR Interface Operation Process Prompts Supporting Blind Area Assembly," 2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT), 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10546058/)]
+3. Zhuo Wang*, Xiangyu Zhang, Liang Li, **Yiliang Zhou**, Zexin Lu, Yuwei Dai, Chaoqian Liu, Zekun Su, Xiaoliang Bai, Mark Billinghurst, Evaluating visual encoding quality of a mixed reality user interface for human–machine co-assembly in complex operational terrain [J]. Advanced Engineering Informatics, 2023. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034623002999)]
 <!--
 4. [[Paper]()] [[Code]()]
 -->
