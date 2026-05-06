@@ -17,10 +17,9 @@
 (My WeChat: zylyehuo, My Email: zyl_0606@163.com, My rednote: 42891122102)
 
 **My subject:**
-
-Online / Classical Navigation Methods: **path search**, **path optimization**, **path tracking**, etc.
-Teach-and-Repeat Navigation: **vision-based teach-and-repeat** (VTR), **multi-sensor fusion teach-and-repeat** (LIV-TR), etc.
-Learning-based Navigation Methods: **vision-language navigation** (VLN), **world models**, etc.
+💡 Online / Classical Navigation Methods: **path search**, **path optimization**, **path tracking**, etc.
+💡 Teach-and-Repeat Navigation: **vision-based teach-and-repeat** (VTR), **multi-sensor fusion teach-and-repeat** (LIV-TR), etc.
+💡 Learning-based Navigation Methods: **vision-language navigation** (VLN), **world models**, etc.
 <!--
 **My subject:** 
 xxx: **x** (x), **x** (xx) and **x** (xxx)   
